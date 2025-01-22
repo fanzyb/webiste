@@ -84,7 +84,7 @@ navLinks.forEach(link => {
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["Muhammad Irfan", "Irfan", "Koje", "Fanz"];
+const textArray = ["Muhammad Irfan"];
 const typingDelay = 200;
 const erasingDelay = 100;
 const newTextDelay = 2000; // Delay between current and next text
